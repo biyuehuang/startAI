@@ -1,0 +1,2 @@
+# startAI
+Hello AI
