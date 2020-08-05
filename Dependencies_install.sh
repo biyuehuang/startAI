@@ -3,6 +3,30 @@ echo "Dependencies installation Start"
 echo
 
 #python3 -m pip install testresources
+echo
+echo ! Start openvino samples Environment Initialization
+echo
+#sudo apt install -y python-pip
+#apt-get -y install python-pip
+
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+
+python3 -m pip install testresources
+python3 -m pip install -U pip setuptools
+#sudo python3 -m pip  install -U opencv-python matplotlib
+
+python3 -m pip install opencv-python matplotlib
+python3 -m pip install networkx==2.3
+#pip3 install -U opencv-python matplotlib
+#pip3 install networkx==2.3
+
+#sudo pip3 install networkx==2.3
+
+#export PATH=$PATH:~/.local/bin
+
+apt-get -y install vim git libgflags-dev
+
 
 echo
 echo ! Start Annotation Tool Environment Initialization
