@@ -1,0 +1,16 @@
+Pneumonia probability: 0.46764565
+ Inference performed in 17.5ms 
+Pneumonia probability: 0.97619486
+ Inference performed in 24.9ms 
+Pneumonia probability: 0.9303638
+ Inference performed in 21.8ms 
+Pneumonia probability: 0.6291282
+ Inference performed in 21.3ms 
+Pneumonia probability: 0.9947055
+ Inference performed in 22.0ms 
+Pneumonia probability: 0.66490006
+ Inference performed in 20.7ms 
+Pneumonia probability: 0.8658978
+ Inference performed in 27.7ms 
+Pneumonia probability: 0.67480147
+ Inference performed in 23.2ms 
