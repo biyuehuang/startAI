@@ -4,7 +4,7 @@ echo
 
 #python3 -m pip install testresources
 echo
-echo ! Start openvino samples Environment Initialization
+echo ! Start AI_reference_sample (openvino samples) Environment Initialization
 echo
 #sudo apt install -y python-pip
 #apt-get -y install python-pip
